@@ -28,8 +28,10 @@ This file connects to and models the `classicmodels` sales dataset inside Power 
 
 ## 📸 Preview
 
-<!-- Add a screenshot here once the report has visuals, e.g.: -->
-<!-- ![Dashboard preview](screenshots/overview.png) -->
+<img width="1322" height="741" alt="Screenshot 2026-09-14 080011" src="https://github.com/user-attachments/assets/1faa9d8d-eb2a-406f-bdc6-2ec484b25146" />
+
+<img width="1325" height="741" alt="Screenshot 2026-09-14 080046" src="https://github.com/user-attachments/assets/74384625-238f-4d01-acf9-735abacba8ec" />
+
 
 ## 👤 Author
 
